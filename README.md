@@ -24,5 +24,13 @@ A project that generates genomes that mutate by using various unit tests and pyt
 
 1) Deep Learning on a public dataset - A project that attempts to find the optimal neural network word image classification , specifically recyclable and non recyclable items. 
 
-2) Machine Learning 
+2) Wine Coursework - University project to implement machine learning practises and algorithms on a wine dataset (code written myself).
+
+## React.js
+
+1) React Quiz - A react project that fetches questions from a locally hosted API and uses useReducer hook.
+
+2) Travel List - A very basic list/checkbox react page. 
+
+3) UsePopcorn - A react project that fetches movie data via API which the user may then add to a watched list , review etc.  
 
