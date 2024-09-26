@@ -12,7 +12,7 @@ The structure is currently as follows:
 
 ### AI 
 
-A project that generates genomes that mutate by using various unit tests and python libraries. To run the project , run python main.py. 
+1) A project that generates genomes that mutate by using various unit tests and python libraries. The mutations are random for now but may be more insightful in the future!
 
 ### Data Science 
 
