@@ -9,9 +9,12 @@ The structure is currently as follows:
 
 ## Python 
 
-# AI 
+### AI 
 
 A project that generates genomes that mutate by using various unit tests and python libraries. To run the project , run python main.py. 
 
-# Data Science 
+### Data Science 
+
+1) Data Science regarding cars and their various different features. Aims to evaluate if there is linear regression between cars and some of their features. 
+2) 
 
