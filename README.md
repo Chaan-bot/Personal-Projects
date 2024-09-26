@@ -7,4 +7,11 @@ The structure is currently as follows:
 1) Trading Bot - Works with non-real world data , makes use of algortihms to attempt to maximize profit. 
 2) Juce DJAPP - Requires Juce on local machine , uses library to create a DJ board with some functionalities such as looping , mixing , volume control etc. 
 
+## Python 
+
+# AI 
+
+A project that generates genomes that mutate by using various unit tests and python libraries. To run the project , run python main.py. 
+
+# Data Science 
 
