@@ -1,4 +1,4 @@
-Hi this is some personal and degree projects I've completed. The file structure will define the technologies and each obviously works different when downloading/viewing. 
+Hi this is some personal and degree projects I've completed or have paused for now. 
 
 The structure is currently as follows:
 
